@@ -1,6 +1,7 @@
 .container {
   width: 280px;
-  color: #314d3e;
+  background-color: #293241;
+  color: #fff;
 }
 
 .title {
@@ -18,7 +19,7 @@
 
 .textbox:focus {
   outline: 0;
-  border-color: #66afe9;
+  border-color: #F38C78;
 }
 
 .bookmarks {
@@ -28,7 +29,7 @@
 
 .bookmark {
   display: flex;
-  border-bottom-color: #00254d;
+  border-bottom-color: #F38C78;
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-radius: 0.8rem;
